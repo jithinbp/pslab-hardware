@@ -84,6 +84,8 @@ One of the main features of PSLab is the 4-channel oscilloscope which can monito
 
 ### Main Control Panel
 
+![](docs/images/blockdiag.png)
+
 ### Other useful tools
 
 * 4MHz, 4-channel Logic analyzer with 15nS resolution.Voltage and Current Sources
@@ -99,5 +101,4 @@ One of the main features of PSLab is the 4-channel oscilloscope which can monito
 * logicanalyzer
 * Logic Analyzer
 
-### Block Diagram
-![](docs/images/blockdiag.png)
+
